@@ -1,0 +1,8 @@
+C:\PRAMUDYA ALMASDHITA RHEIZA_X PPLG 2\Praktik6.1_Pramudya_XPPLG2\Praktik6.1_Pramudya_XPPLG2\bin\Debug\Praktik6.1_Pramudya_XPPLG2.exe.config
+C:\PRAMUDYA ALMASDHITA RHEIZA_X PPLG 2\Praktik6.1_Pramudya_XPPLG2\Praktik6.1_Pramudya_XPPLG2\bin\Debug\Praktik6.1_Pramudya_XPPLG2.exe
+C:\PRAMUDYA ALMASDHITA RHEIZA_X PPLG 2\Praktik6.1_Pramudya_XPPLG2\Praktik6.1_Pramudya_XPPLG2\bin\Debug\Praktik6.1_Pramudya_XPPLG2.pdb
+C:\PRAMUDYA ALMASDHITA RHEIZA_X PPLG 2\Praktik6.1_Pramudya_XPPLG2\Praktik6.1_Pramudya_XPPLG2\obj\Debug\Praktik6.1_Pramudya_XPPLG2.csproj.AssemblyReference.cache
+C:\PRAMUDYA ALMASDHITA RHEIZA_X PPLG 2\Praktik6.1_Pramudya_XPPLG2\Praktik6.1_Pramudya_XPPLG2\obj\Debug\Praktik6.1_Pramudya_XPPLG2.csproj.CoreCompileInputs.cache
+C:\PRAMUDYA ALMASDHITA RHEIZA_X PPLG 2\Praktik6.1_Pramudya_XPPLG2\Praktik6.1_Pramudya_XPPLG2\obj\Debug\Praktik6.1_Pramudya_XPPLG2.exe
+C:\PRAMUDYA ALMASDHITA RHEIZA_X PPLG 2\Praktik6.1_Pramudya_XPPLG2\Praktik6.1_Pramudya_XPPLG2\obj\Debug\Praktik6.1_Pramudya_XPPLG2.pdb
+C:\PRAMUDYA ALMASDHITA RHEIZA_X PPLG 2\Praktik6.1_Pramudya_XPPLG2\Praktik6.1_Pramudya_XPPLG2\obj\Debug\Praktik6.1_Pramudya_XPPLG2.exe.config
