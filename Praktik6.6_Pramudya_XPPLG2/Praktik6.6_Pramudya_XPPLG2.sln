@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36511.14 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Praktik6.6_Pramudya_XPPLG2", "Praktik6.6_Pramudya_XPPLG2\Praktik6.6_Pramudya_XPPLG2.csproj", "{AB030B91-4B3B-451D-AE85-ED5D31A4DFD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB030B91-4B3B-451D-AE85-ED5D31A4DFD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB030B91-4B3B-451D-AE85-ED5D31A4DFD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB030B91-4B3B-451D-AE85-ED5D31A4DFD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB030B91-4B3B-451D-AE85-ED5D31A4DFD4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D75A882D-7A05-478E-99B8-36BB205E0B76}
+	EndGlobalSection
+EndGlobal
