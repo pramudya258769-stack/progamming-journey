@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36511.14 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PROYEKSMT_PRAMUDYA_XPPLG2", "PROYEKSMT_PRAMUDYA_XPPLG2\PROYEKSMT_PRAMUDYA_XPPLG2.csproj", "{DD5974EC-FFB3-4143-BDC0-07145C392066}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD5974EC-FFB3-4143-BDC0-07145C392066}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD5974EC-FFB3-4143-BDC0-07145C392066}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD5974EC-FFB3-4143-BDC0-07145C392066}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD5974EC-FFB3-4143-BDC0-07145C392066}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A34F3E4-9ECA-4EEA-A5D6-44C85D8B6D16}
+	EndGlobalSection
+EndGlobal
