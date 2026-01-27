@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Praktik7.27_range.HTML</title>
+</head>
+<body>
+    <form action="/submit" method="post">
+        <label for="volume">Volume(between 0 ad 100):</label>
+        <input type="range" id="volume" nama="volume" min="0"
+            max="100" value="50" oninput="this.nextElementSibling.value = this.value">
+        <output>50</output>
+        <br><br>
+    </form>
+</body>
+</html>

@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tugas_form.HTML</title>
+    <style>
+        body{
+            margin-left: auto;
+            margin-right: auto;
+            width: 500px;
+        }
+        h2{
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+   <h2>FORMULIR PENDAFTARAN CALON SISWA BARU SMK</h2>
+   <form action="/submit" method="post">
+    <fieldset>
+    <legend>BIODATA SISWA</legend>
+    <table >
+        <tr>
+            <td>No. UN SMP/MTs/Sederajat:</td>
+            <td><input type="number" name="no" required></td>
+        </tr>
+        <tr>
+            <td>Jenis Kelamin</td>
+            <td><input type="radio" name="jk">Laki laki <br>
+                <input type="radio" name="jk">Perempuan
+            </td>
+        </tr>
+        <tr>
+            <td>Nama Orangtua/Wali</td>
+            <td><input type="text" name="ortu" required></td>
+        </tr>
+        <tr>
+            <td>Alamat sesuaiKK/KTP/Suratket
+                (Domisilimin 6 bln Ortu/Walimurid
+                calon siswa)
+            </td>
+            <td><textarea style="text-align: justify;">
+            </textarea><br>
+            </td>
+        </tr>
+        <tr>
+            <td>Kota/Kabupaten</td>
+            <td><input type="text" name="kota" required></td>
+        </tr>
+        <tr>
+            <td>Asal Sekolah</td>
+            <td><input type="text" name="kota" required></td>
+        </tr>
+        <tr>
+            <td>Agama</td>
+            <td><select id="agama" name="Agama">
+                <option value="ism">Islam</option>
+                <option value="krtn">Kristen</option>
+                <option value="ktk">Katolik</option>
+                <option value="bd">Buddha</option>
+                <option value="hnd">Hindu</option>
+                <option value="khc">Konghucu</option>
+            </td>
+            </select> 
+        </tr>
+    </table>
+</fieldset>
+<br>
+<fieldset>
+<legend>PENILAIAN</legend>
+<table>
+    <tr>
+        <td>1. Matematika</td>
+        <td><input type="number" name="mtk" min="1" max="100" required></td>
+    </tr>
+    <tr>
+        <td>2. Bahasa Indonesia</td>
+        <td><input type="number" name="bindo" min="1" max="100" required></td>
+    </tr>
+    <tr>
+        <td>3. Bahasa Inggris</td>
+        <td><input type="number" name="bing" min="1" max="100"></td>
+    </tr>
+    <tr>
+        <td>4. Ilmu Pengetahuan Alam (IPA)</td>
+        <td><input type="number" name="ipa" min="1" max="100"></td>
+        <td>Jumlah NUN</td>
+        <td><input type="number" name="NUN" min="1" max="100"></td>
+    </tr>
+    <tr>
+        <td>NILAI BONUS PRESTASI (NBP)</td>
+        <td></td>
+        <td></td>
+        <td><input type="number" name="NBP" min="1" max="100"></td>
+    </tr>
+    <tr>
+        <td>JUMLAH TOTAL NILAI AKHIR PPDB (Rumus: NUN + NBP)</td>
+        <td><input type="number" name="PPDB" min="1" max="100"></td>
+    </tr>      
+</table>
+</fieldset>
+    <br>
+<fieldset>
+<legend>PILIHAN SEKOLAH</legend>
+<table>
+    <tr>
+        <td>1. SMK</td>
+        <td></td>
+        <td><select id="smk" name="SMK">
+                <option value="k">SMK Negeri 1 Kandeman</option>
+                <option value="b">SMK Negeri 1 Batang</option>
+                <option value="w">SMK Negeri 1 Warungasem</option>
+                <option value="b">SMK Negeri 1 Blado</option>
+            </select>
+    </tr>
+    <tr>
+        <td></td>
+        <td>a. Pilihan 1</td>
+        <td><select id="smk" name="SMK">
+                <option value="p">Pengembangan Perangkat Lunak dan Gim</option>
+                <option value="To">Teknik Otomotif</option>
+                <option value="Te">Teknik Elektronik</option>
+                <option value="tkl">Teknik Ketenagalistrikan</option>
+                <option value="Tm">Teknik Mesin</option>
+            </select>
+    </tr>
+    <tr>
+        <td></td>
+        <td>a. Pilihan 2</td>
+        <td><select id="smk" name="SMK">
+                <option value="p">Pengembangan Perangkat Lunak dan Gim</option>
+                <option value="To">Teknik Otomotif</option>
+                <option value="Te">Teknik Elektronik</option>
+                <option value="tkl">Teknik Ketenagalistrikan</option>
+                <option value="Tm">Teknik Mesin</option>
+            </select>
+    </tr>
+    <tr>
+        <tr>
+        <td>2. SMK</td>
+        <td></td>
+        <td><select id="smk" name="SMK">
+                <option value="k">SMK Negeri 1 Kandeman</option>
+                <option value="b">SMK Negeri 1 Batang</option>
+                <option value="w">SMK Negeri 1 Warungasem</option>
+                <option value="b">SMK Negeri 1 Blado</option>
+            </select></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>a. Pilihan 1</td>
+        <td><select id="smk" name="SMK">
+                <option value="p">Pengembangan Perangkat Lunak dan Gim</option>
+                <option value="To">Teknik Otomotif</option>
+                <option value="Te">Teknik Elektronik</option>
+                <option value="tkl">Teknik Ketenagalistrikan</option>
+                <option value="Tm">Teknik Mesin</option>
+            </select>
+    </tr>
+    <tr>
+        <td></td>
+        <td>a. Pilihan 2</td>
+        <td><select id="smk" name="SMK">
+                <option value="p">Pengembangan Perangkat Lunak dan Gim</option>
+                <option value="To">Teknik Otomotif</option>
+                <option value="Te">Teknik Elektronik</option>
+                <option value="tkl">Teknik Ketenagalistrikan</option>
+                <option value="Tm">Teknik Mesin</option>
+            </select>
+    </tr>
+   </form>
+</body>
+</html>
