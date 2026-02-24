@@ -1,0 +1,20 @@
+p  {
+            color: blue;
+            font-size: 18px;
+        }
+        .biru {
+            width: 100px;
+            height: 100px;
+            background-color: blue;
+        }
+        #merah {
+            color: white;
+            background-color: red;
+            padding: 10px;
+        }
+        /* selector atribut */
+        input[type="text"] {
+            border: 2px solid green;
+            padding: 5px;
+            border: 1px solid cyan;
+        }

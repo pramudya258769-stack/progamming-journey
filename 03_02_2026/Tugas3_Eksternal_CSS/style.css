@@ -1,0 +1,22 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    padding: 0;
+    background-color: bisque;
+}
+h1  {
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(127, 76, 13);
+    text-align: center;
+}
+h2  {
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(127, 76, 13);
+    text-align: left;
+}
+
+p  {
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(127, 76, 13);
+    text-align: justify;
+    font-size: 20px;
+}

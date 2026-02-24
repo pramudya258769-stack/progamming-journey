@@ -1,0 +1,13 @@
+p {
+    color: pink;
+}
+.highlight {
+    background-color: green;
+}
+#unique-section {
+    border: 2px solid green;
+    padding: 10px;
+}
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
