@@ -1,0 +1,12 @@
+ body {
+    background-color: lightblue;
+ }
+ .box {
+    display: inline-block;
+    width: 120px;
+    height: 100px;
+    background-color: pink;
+    margin: 5px;
+    text-align: center;
+    line-height: 100px;
+}
