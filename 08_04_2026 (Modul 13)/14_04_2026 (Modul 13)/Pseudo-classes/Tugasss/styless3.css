@@ -1,0 +1,219 @@
+.gallery-section {
+    padding: 40px 20px;
+    text-align: center;
+    background: rgba(255, 255, 255, 0.7);
+    margin-top: 30px;
+    border-radius: 30px;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.gallery-section h3 {
+    font-size: 28px;
+    color: #333;
+    margin-bottom: 30px;
+}
+
+.gallery-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.harga {
+    display: block;
+    margin: 10px 0;
+    font-weight: bold;
+    color: #ff1493;
+    font-size: 18px;
+}
+
+button {
+    background-color: #ff1493;
+    color: white;
+    border: none;
+    padding: 10px;
+    width: 100%;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.gallery-item {
+    background: white;
+    border-radius: 16px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    transition: transform 0.3s;
+}
+
+.gallery-item:hover {
+    transform: scale(1.03);
+}
+
+.gallery-item img {
+    width: 100%;
+    height: 180px;
+    object-fit: cover;
+}
+
+.gallery-item p {
+    font-family: monospace;
+    font-size: 18px;
+    font-weight: bold;
+    color: #333;
+    padding: 12px;
+    margin: 0;
+    background: #f9f9f9;
+}
+footer {
+    background-color: rgb(216, 178, 171);
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body */
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #fff7f8;
+    color: #333;
+    line-height: 1.6;
+}
+
+/* Container */
+.container {
+    max-width: 800px;
+    margin: 80px auto;
+    padding: 40px;
+    background-color: #ffffff;
+    border-radius: 16px;
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.08);
+    text-align: center;
+}
+
+/* Judul */
+.container h2 {
+    font-size: 32px;
+    margin-bottom: 20px;
+    color: #d46a7e;
+}
+
+.container p {
+    margin-bottom: 16px;
+    font-size: 16px;
+    color: #555;
+}
+
+.container p:last-of-type {
+    font-weight: 500;
+    color: #d46a7e;
+}
+
+.container button:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 15px rgba(212, 106, 126, 0.3);
+}
+
+    .container h2 {
+        font-size: 26px;
+    }
+
+    .container p {
+        font-size: 14px;
+    }
+.container3{
+    max-width: 800px;
+    margin: 80px auto;
+    padding: 40px;
+    background-color: #ffffff;
+    border-radius: 16px;
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.08);
+    text-align: center;
+}
+.container3 h2{
+    font-size: 32px;
+    margin-bottom: 20px;
+    color: #d46a7e;
+}
+.container3 p {
+    margin-bottom: 16px;
+    font-size: 16px;
+    color: #555;
+}
+.container3 ul li{
+    margin-bottom: 16px;
+    font-size: 16px;
+    color: #555;
+}
+button {
+    background-color: #ff1493;
+    color: white;
+    border: none;
+    padding: 10px;
+    width: 100%;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+button:hover {
+    background-color: #cc0f73;
+}
+.div phone{
+    max-width: 800px;
+    margin: 80px auto;
+    padding: 40px;
+    background-color: #ffffff;
+    border-radius: 16px;
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.08);
+    text-align: center;
+}
+.phone h2{
+    font-size: 32px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.phone p{
+    text-align: center;
+    font-size: 14px;
+}
+button {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 15px rgba(212, 106, 126, 0.3);
+}
+.email h2{
+    font-size: 32px;
+    margin-bottom: 0px;
+    text-align: center;
+}
+.email p{
+    text-align: center;
+    font-size: 14px;
+}
+.email-btn{
+    background: palevioletred;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 25px;
+    text-decoration: none;
+    display: inline-block;
+    font-weight: bold;
+    text-align: center;
+    padding: 10px;
+    width: 100%;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+.email-btn i{
+    margin-right: 8px;
+    text-align: center;
+}
